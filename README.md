@@ -4,7 +4,7 @@ Go CLI with embedded Vue 3 web UI. Single binary, no runtime dependencies.
 
 Part of [SuperCLI](https://github.com/javimosch/supercli) - build CLI/UI plugins fast for 2026.
 
-**v1**: [boilerplate-cli-ui-go](https://github.com/javimosch/boilerplate-cli-ui-go) | **React**: [boilerplate-cli-ui-go-v2-react](https://github.com/javimosch/boilerplate-cli-ui-go-v2-react) | **Node**: [boilerplate-cli-ui-node](https://github.com/javimosch/boilerplate-cli-ui-node) | **Python+React**: [boilerplate-cli-ui-python](https://github.com/javimosch/boilerplate-cli-ui-python)
+**v1**: [boilerplate-cli-ui-go](https://github.com/javimosch/boilerplate-cli-ui-go) | **React**: [boilerplate-cli-ui-go-v2-react](https://github.com/javimosch/boilerplate-cli-ui-go-v2-react) | **Node**: [boilerplate-cli-ui-node](https://github.com/javimosch/boilerplate-cli-ui-node) | **Python+React**: [boilerplate-cli-ui-python](https://github.com/javimosch/boilerplate-cli-ui-python) | **Rust**: [boilerplate-cli-ui-rust](https://github.com/javimosch/boilerplate-cli-ui-rust)
 
 ## Architecture
 
