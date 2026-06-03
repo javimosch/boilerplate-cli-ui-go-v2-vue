@@ -1,9 +1,8 @@
-# boilerplate-cli-ui-go-v2
+# boilerplate-cli-ui-go-v2-vue
 
 Go CLI with embedded Vue 3 web UI. Single binary, no runtime dependencies.
 
-**React version**: [boilerplate-cli-ui-go-v2-react](https://github.com/javimosch/boilerplate-cli-ui-go-v2-react)
-**Node version**: [boilerplate-cli-ui-node](https://github.com/javimosch/boilerplate-cli-ui-node)
+**v1**: [boilerplate-cli-ui-go](https://github.com/javimosch/boilerplate-cli-ui-go) | **React**: [boilerplate-cli-ui-go-v2-react](https://github.com/javimosch/boilerplate-cli-ui-go-v2-react) | **Node**: [boilerplate-cli-ui-node](https://github.com/javimosch/boilerplate-cli-ui-node)
 
 ## Architecture
 
