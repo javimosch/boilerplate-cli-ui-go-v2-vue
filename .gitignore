@@ -1,0 +1,10 @@
+# Binary
+boilerplate-cli-ui-go-v2
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
